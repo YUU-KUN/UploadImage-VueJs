@@ -1,5 +1,7 @@
 # vue-upload-image
 
+Upload Image to Firebase with VueJS
+
 ## Project setup
 ```
 npm install
